@@ -7,47 +7,14 @@
 
 ## Programming Languages
 
-<div style="display: inline-block; align-items: center; flex-direction: row;">
-    <div style="display: inline-block; align-items: center; margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python Logo" width="50" height="50">
-        <p>Python</p>
-    </div>
-    
-  <div style="display: inline-block; align-items: center; margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="50" height="50">
-        <p>Java</p>
-    </div>
-    
-  <div style="display: inline-block; align-items: center; margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="50" height="50">
-        <p>C++</p>
-    </div>
-    
-  <div style="display: inline-block; align-items: center; margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C Logo" width="50" height="50">
-        <p>C</p>
-    </div>
-    
-  <div style="display: inline-block; align-items: center; margin-right: 10px;">
-        <img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="SQL Logo" width="50" height="50">
-        <p>SQL</p>
-    </div>
-    
-  <div style="display: inline-block; align-items: center; margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="50" height="50">
-        <p>JavaScript</p>
-    </div>
-    
-  <div style="display: inline-block; align-items: center; margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="50" height="50">
-        <p>HTML</p>
-    </div>
-    
-  <div style="display: inline-block; align-items: center; margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50" height="50">
-        <p>CSS</p>
-    </div>
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
